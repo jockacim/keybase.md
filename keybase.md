@@ -2,9 +2,9 @@
 
 I hereby claim:
 
-  * I am kryzsiel on github.
-  * I am kowalskiego (https://keybase.io/kowalskiego) on keybase.
-  * I have a public key ASD4YkvmnXXD2aeq2M4G1oY4w8hRi1ThgaynFbm37pqa0Qo
+  * I am jockacim on github.
+  * I am jockacim (https://keybase.io/jockacim) on keybase.
+  * I have a public key ASAw3uEaapnAjxBQlmgX1pkk3hPE7c-UO_nlTW3RstP-HAo
 
 To claim this, I am signing this object:
 
@@ -12,42 +12,42 @@ To claim this, I am signing this object:
 {
   "body": {
     "key": {
-      "eldest_kid": "0120e8606f0f9c7841bce080019040c7eb054f126b1e8ffaa37ad338ef969a2fe32a0a",
+      "eldest_kid": "012030dee11a6a99c08f1050966817d69924de13c4edcf943bf9e54d6dd1b2d3fe1c0a",
       "host": "keybase.io",
-      "kid": "0120f8624be69d75c3d9a7aad8ce06d68638c3c8518b54e181aca715b9b7ee9a9ad10a",
-      "uid": "104d2559ba716007be6d05891486f619",
-      "username": "kowalskiego"
+      "kid": "012030dee11a6a99c08f1050966817d69924de13c4edcf943bf9e54d6dd1b2d3fe1c0a",
+      "uid": "d53910cc5fbf8d544a395cc0cdbd8119",
+      "username": "jockacim"
     },
     "merkle_root": {
-      "ctime": 1568100769,
-      "hash": "b3491f362446375c69a94e4c72260363e6578b271bc9d7a3e2007cee5fe1fc6a1cbcfc3f22635c98117489a55e3b6783c93105a5ca2e00cf5cb79d10ac56207e",
-      "hash_meta": "b236e947a1963ffca3454325c676ba7ded79c28872ec162be0b630e1307b2e4c",
-      "seqno": 6341022
+      "ctime": 1568842046,
+      "hash": "b25d85e51888042fb7759b7b06aeb341d02db99912a6d1dff9e086f40132da1c7212a9e45bdc1fc765d9f784c16af14cea116209d1358c882a175fbac14023dd",
+      "hash_meta": "9b9b805c1ba43580e29567dfab4bdab8bdedc610b3dbc1f32d033ecd2021741a",
+      "seqno": 7579242
     },
     "service": {
-      "entropy": "rsBEY0ufhu+xhjOcrKy2+PV9",
+      "entropy": "PUnOqkAp6eb4Ebf/zWX+U0cn",
       "name": "github",
-      "username": "kryzsiel"
+      "username": "jockacim"
     },
     "type": "web_service_binding",
     "version": 2
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "4.4.1"
+    "version": "4.4.2"
   },
-  "ctime": 1568100773,
+  "ctime": 1568842048,
   "expire_in": 504576000,
-  "prev": "920c66549536c8f1776a0b31a4287ddb2432bed5f5b8922221494e8cf5fe0028",
-  "seqno": 23,
+  "prev": "c736ea58f46f13756a012711d0a591b5e3811da0bd071cf3a5c70f6e53148c48",
+  "seqno": 7,
   "tag": "signature"
 }
 ```
 
-with the key [ASD4YkvmnXXD2aeq2M4G1oY4w8hRi1ThgaynFbm37pqa0Qo](https://keybase.io/kowalskiego), yielding the signature:
+with the key [ASAw3uEaapnAjxBQlmgX1pkk3hPE7c-UO_nlTW3RstP-HAo](https://keybase.io/jockacim), yielding the signature:
 
 ```
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+GJL5p11w9mnqtjOBtaGOMPIUYtU4YGspxW5t+6amtEKp3BheWxvYWTESpcCF8QgkgxmVJU2yPF3agsxpCh92yQyvtX1uJIiIUlOjPX+ACjEIPEYNVQ4A41ltRYenHKWFH80KJjMqLo/GSKOo2GC2aAtAgHCo3NpZ8RAHNwKS2OoaJKmq1azZlPwCDzntrqBycLjL8KkjstLpyUzIQdiaCxqT9s//ncbm/If95qqJ4fxoh22B84VjMnBAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFhAOONSmt7cUzD1rFkJa34jrKipkiDjoc6AC5VnovCoo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMN7hGmqZwI8QUJZoF9aZJN4TxO3PlDv55U1t0bLT/hwKp3BheWxvYWTESpcCB8QgxzbqWPRvE3VqAScR0KWRteOBHaC9BxzzpccPblMUjEjEIKRRuH1obHIfIpRlzZ8HQPXh1PfazXBxRuFIXbd3FmQQAgHCo3NpZ8RADlBCn4ksVzhVXzn8jlD+ZF/i3X1vq/Rb3edY/XDqUui+PMctk8eQMpe8RCgyL5jUJHxyFXJnw6U9CPOf/gLIAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOhoizBcp+qth5DFQ3LTyqPZQDc5/tozFQvrKqrOInPho3RhZ80CAqd2ZXJzaW9uAQ==
 
 ```
 
@@ -55,7 +55,7 @@ And finally, I am proving ownership of the github account by posting this as a g
 
 ### My publicly-auditable identity:
 
-https://keybase.io/kowalskiego
+https://keybase.io/jockacim
 
 ### From the command line:
 
@@ -63,5 +63,5 @@ Consider the [keybase command line program](https://keybase.io/download).
 
 ```bash
 # look me up
-keybase id kowalskiego
+keybase id jockacim
 ```
